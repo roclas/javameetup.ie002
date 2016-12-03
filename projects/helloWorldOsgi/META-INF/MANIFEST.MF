@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1457649206989
+Bundle-Activator: com.example.helloWorld.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: com.example.helloWorld
+Bundle-SymbolicName: com.example.helloWorld
+Bundle-Version: 1.0.0.201603102233
+Created-By: 1.7.0_80 (Oracle Corporation)
+Import-Package: com.example.helloWorld,org.osgi.framework
+Export-Package: com.example.helloWorld;version="1.0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-3.1.0.201512181341

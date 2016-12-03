@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1457726971632
+Bundle-Activator: com.examples.console.Activator
+Bundle-ManifestVersion: 2
+Bundle-Name: helloClient
+Bundle-SymbolicName: helloClient
+Bundle-Version: 1.0.0.201603112009
+Created-By: 1.7.0_80 (Oracle Corporation)
+Import-Package: com.liferay.training.service.hello,org.osgi.framework
+Private-Package: com.examples.console
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-3.1.0.201512181341
+Bundle-Vendor: carlos

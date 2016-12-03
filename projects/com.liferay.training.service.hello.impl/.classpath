@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/com.liferay.training.service.hello"/>
+	<classpathentry kind="lib" path="/home/carlos/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.core/5.0.0/6e5e8cd3c9059c08e1085540442a490b59a7783c/org.osgi.core-5.0.0.jar" sourcepath="/home/carlos/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.core/5.0.0/49a8f6d5428650ce3ad56bb365a98c6c88f62886/org.osgi.core-5.0.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

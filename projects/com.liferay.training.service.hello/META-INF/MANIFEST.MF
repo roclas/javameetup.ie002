@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1457649206989
+Bundle-ManifestVersion: 2
+Bundle-Name: com.liferay.training.service.hello
+Bundle-SymbolicName: com.liferay.training.service.hello
+Bundle-Version: 1.0.0.201603102233
+Created-By: 1.7.0_80 (Oracle Corporation)
+Export-Package: com.liferay.training.service.hello;version="1.0.0"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.7))"
+Tool: Bnd-3.1.0.201512181341
